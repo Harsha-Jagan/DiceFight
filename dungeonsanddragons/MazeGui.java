@@ -3,7 +3,7 @@
  * User ID : hxj4805
  * Lab #   : Final exam
  */
-package dungeonsanddragons;
+package dicefight;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
