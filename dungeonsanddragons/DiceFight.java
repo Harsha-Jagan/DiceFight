@@ -3,11 +3,11 @@
  * User ID : hxj4805
  * Lab #   : Final exam
  */
-package dungeonsanddragons;
+package dicefight;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
-public class DungeonsAndDragons 
+public class DiceFight 
 {
     public static void main(String[] args) throws FileNotFoundException 
     {
